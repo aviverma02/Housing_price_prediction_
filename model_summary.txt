@@ -1,0 +1,33 @@
+======================================================================
+LINEAR REGRESSION MODEL SUMMARY
+======================================================================
+
+Dataset: Boston Housing Dataset
+Number of samples: 506
+Number of features used: 10
+Selected features: RM, ZN, DIS, CHAS, INDUS, NOX, AGE, RAD, PTRATIO, LSTAT
+
+Model Coefficients:
+  RM: 0.4981
+  ZN: 0.1545
+  DIS: 0.1557
+  CHAS: 0.0167
+  INDUS: -0.0693
+  NOX: -0.1471
+  AGE: -0.0699
+  RAD: -0.1003
+  PTRATIO: -0.2122
+  LSTAT: -0.3498
+
+Intercept: 49.5991
+
+Performance Metrics:
+Training Set:
+  R² Score: 0.2440
+  RMSE: 1.3008
+  MAE: 0.7968
+
+Test Set:
+  R² Score: 0.2210
+  RMSE: 1.6196
+  MAE: 0.8414
