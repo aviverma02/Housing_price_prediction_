@@ -3,7 +3,7 @@
 ![HEX SOFTWARES](https://img.shields.io/badge/HEX-SOFTWARES-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-orange)
-
+  
 ## 🎯 Project Overview
 
 This project implements a **Simple Linear Regression model** to predict housing prices based on various property features using the Boston Housing dataset. It includes comprehensive data preprocessing, feature selection, normalization, and model evaluation.
