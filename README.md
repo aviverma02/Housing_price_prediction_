@@ -14,7 +14,7 @@ This project implements a **Simple Linear Regression model** to predict housing 
 - **Perform** data preprocessing, including feature selection and normalization
 - **Build** a linear regression model to predict house prices based on features like:
   - Number of rooms
-  - Square footage
+  - Square footage 
   - Crime rate
   - Property tax
   - And more...
