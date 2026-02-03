@@ -17,7 +17,7 @@ This project implements a **Simple Linear Regression model** to predict housing 
   - Square footage 
   - Crime rate
   - Property tax
-  - And more...
+  - And more...   
 
 ## 🗂️ Project Structure
 
