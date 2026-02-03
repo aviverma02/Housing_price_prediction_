@@ -6,7 +6,7 @@
   
 ## 🎯 Project Overview
 
-This project implements a **Simple Linear Regression model** to predict housing prices based on various property features using the Boston Housing dataset. It includes comprehensive data preprocessing, feature selection, normalization, and model evaluation.
+This project implements a **Simple Linear Regression model** to predict housing prices based on various property features using the Boston Housing dataset. It includes comprehensive data preprocessing, feature selection, normalization, and model evaluation.  
 
 ## 📋 Task Description
 
